@@ -8,7 +8,15 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-  title = ' The angular project that has been created and it is working properly ';
+  onLogin(event) {
+    console.log('login fired', event);
+
+  }
+
+  onSignUp(event) {
+    console.log('sign up fired', event);
+    
+  }
 
 }
 

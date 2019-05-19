@@ -1,0 +1,19 @@
+<div>
+  <form (ngSubmit)="onSubmit(form.value)" #form="ngForm">
+
+    <!-- Here will be injected forms title from an external component. -->
+    <ng-content select="h4"></ng-content>
+      
+    <label>
+      Email address
+      <input type="email" name="email" ngModel>
+    </label>
+    <label>
+      Password
+      <input type="password" name="password" ngModel>
+    </label>
+    <br>
+    <ng-content select="auth-remember"></ng-content>
+    <ng-content select="button"></ng-content>
+  </form>
+</div>
