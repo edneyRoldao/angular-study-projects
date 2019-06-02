@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/07-platform-agnostic-render/src/app/auth-form/auth-form.component.ts" line="75" />
+    <bookmark url="file://$PROJECT_DIR$/07-platform-agnostic-render/src/app/auth-form/auth-form.component.ts" line="77" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d857021-e119-46a5-9116-19304e614670" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/01-project-seed/src/app/app.component.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/01-project-seed/src/app/app.component.ts" afterPath="$PROJECT_DIR$/01-project-seed/src/app/app.component.ts" />
+      <change beforePath="$PROJECT_DIR$/05-view-child/README.md" afterPath="$PROJECT_DIR$/05-view-child/README.md" />
+      <change beforePath="$PROJECT_DIR$/06-viewChild-and-templateRef/src/app/auth-form/auth-form.component.ts" afterPath="$PROJECT_DIR$/06-viewChild-and-templateRef/src/app/auth-form/auth-form.component.ts" />
+      <change beforePath="$PROJECT_DIR$/07-platform-agnostic-render/src/app/auth-form/auth-form.component.ts" afterPath="$PROJECT_DIR$/07-platform-agnostic-render/src/app/auth-form/auth-form.component.ts" />
+      <change beforePath="$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/on-push/on-push.component.ts" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,137 +22,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="auth-form.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-form.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1482">
-              <caret line="78" column="3" lean-forward="false" selection-start-line="78" selection-start-column="3" selection-end-line="78" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#194#0" expanded="true" />
-                <marker date="1558284879633" expanded="true" signature="486:2009" ph="..." />
-                <marker date="1558284879633" expanded="true" signature="552:1996" ph="..." />
-                <marker date="1558284879633" expanded="true" signature="822:870" ph="..." />
-                <marker date="1558284879633" expanded="true" signature="871:977" ph="..." />
-                <marker date="1558284879633" expanded="true" signature="1027:1075" ph="..." />
-                <marker date="1558284879633" expanded="true" signature="1076:1182" ph="..." />
-                <marker date="1558284879633" expanded="true" signature="1232:1280" ph="..." />
-                <marker date="1558284879633" expanded="true" signature="1281:1387" ph="..." />
-                <marker date="1558284879633" expanded="true" signature="1490:1605" ph="..." />
-                <marker date="1558284879633" expanded="true" signature="1627:1743" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-content-child/src/app/app.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="auth-error.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-error/auth-error.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <marker date="1558284794587" expanded="true" signature="111:176" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="auth-form.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-form.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="auth-form.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-content-child/src/app/auth-form/auth-form.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#104#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="auth-form.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06-viewChild-and-templateRef/src/app/auth-form/auth-form.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="661">
-              <caret line="90" column="5" lean-forward="true" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#178#0" expanded="true" />
-                <marker date="1559005998888" expanded="true" signature="406:455" ph="{...}" />
-                <marker date="1559005998888" expanded="true" signature="488:1255" ph="..." />
-                <marker date="1559005998888" expanded="true" signature="554:1242" ph="..." />
-                <marker date="1559005998888" expanded="true" signature="729:851" ph="..." />
-                <marker date="1559005998888" expanded="true" signature="873:989" ph="..." />
-                <marker date="1559005998888" expanded="true" signature="1622:2422" ph="..." />
-                <marker date="1559005998888" expanded="true" signature="1726:2422" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-platform-agnostic-render/src/app/app.component.ts">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12-change-detection-strategy/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="627">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="auth-form.component.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07-platform-agnostic-render/src/app/auth-form/auth-form.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="687">
-              <caret line="83" column="35" lean-forward="true" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
+              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
               <folding>
-                <element signature="e#0#189#0" expanded="true" />
-                <marker date="1559392414201" expanded="true" signature="417:467" ph="{...}" />
-                <marker date="1559392414201" expanded="true" signature="500:1267" ph="..." />
-                <marker date="1559392414201" expanded="true" signature="566:1254" ph="..." />
-                <marker date="1559392414201" expanded="true" signature="741:863" ph="..." />
-                <marker date="1559392414201" expanded="true" signature="885:1001" ph="..." />
+                <marker date="1559480363522" expanded="true" signature="135:538" ph="..." />
+                <marker date="1559480363522" expanded="true" signature="151:525" ph="..." />
+                <marker date="1559480363522" expanded="true" signature="383:508" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06-viewChild-and-templateRef/src/app/app.component.html">
+      <file leaf-file-name="on-push.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12-change-detection-strategy/src/app/on-push/on-push.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="589">
+              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+              <folding>
+                <marker date="1559479960655" expanded="true" signature="199:256" ph="{...}" />
+                <marker date="1559479960655" expanded="true" signature="307:543" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="auth-form.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06-viewChild-and-templateRef/src/app/auth-form/auth-form.module.ts">
+      <file leaf-file-name="default.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12-change-detection-strategy/src/app/default/default.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="570">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
               <folding>
-                <element signature="e#0#41#0" expanded="true" />
+                <marker date="1559480402621" expanded="true" signature="259:332" ph="{...}" />
+                <marker date="1559480402621" expanded="true" signature="389:655" ph="..." />
               </folding>
             </state>
           </provider>
@@ -184,8 +94,27 @@
         <option value="$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-error/auth-error.component.ts" />
         <option value="$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-form.component.ts" />
         <option value="$PROJECT_DIR$/06-viewChild-and-templateRef/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/06-viewChild-and-templateRef/src/app/auth-form/auth-form.component.ts" />
+        <option value="$PROJECT_DIR$/08-component-factory-resolver/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/08-component-factory-resolver/src/app/auth-form/auth-form.module.ts" />
+        <option value="$PROJECT_DIR$/08-component-factory-resolver/src/app/auth-form/auth-form.component.ts" />
+        <option value="$PROJECT_DIR$/05-view-child/README.md" />
+        <option value="$PROJECT_DIR$/08-component-factory-resolver/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/07-platform-agnostic-render/src/app/auth-form/auth-form.component.ts" />
+        <option value="$PROJECT_DIR$/06-viewChild-and-templateRef/src/app/auth-form/auth-form.component.ts" />
+        <option value="$PROJECT_DIR$/09-dynamic-components-reordering/src/app/auth-form/auth-form.module.ts" />
+        <option value="$PROJECT_DIR$/09-dynamic-components-reordering/src/app/auth-form/auth-form.component.ts" />
+        <option value="$PROJECT_DIR$/09-dynamic-components-reordering/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/10-dynamicTemplateRedering-with-viewContainerRef/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/01-project-seed/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/11-ngTemplateOutlet/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/example-default/example-default.component.ts" />
+        <option value="$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/user.interface.ts" />
+        <option value="$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/default/default.component.ts" />
+        <option value="$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/on-push/on-push.component.ts" />
+        <option value="$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/12-change-detection-strategy/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/12-change-detection-strategy/src/app/default/default.component.ts" />
       </list>
     </option>
   </component>
@@ -207,11 +136,15 @@
     <handled-path value="$PROJECT_DIR$/04-content-child/node_modules" />
     <handled-path value="$PROJECT_DIR$/05-view-child/node_modules" />
     <handled-path value="$PROJECT_DIR$/06-viewChild-and-templateRef/node_modules" />
+    <handled-path value="$PROJECT_DIR$/11-ngTemplateOutlet/node_modules" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="1280" />
     <option name="width" value="2560" />
     <option name="height" value="1440" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -240,28 +173,36 @@
             <path>
               <item name="angular-study-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="angular-study-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="07-platform-agnostic-render" type="462c0819:PsiDirectoryNode" />
+              <item name="12-change-detection-strategy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="angular-study-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="angular-study-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="07-platform-agnostic-render" type="462c0819:PsiDirectoryNode" />
+              <item name="12-change-detection-strategy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="angular-study-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="angular-study-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="07-platform-agnostic-render" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="angular-study-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="angular-study-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="07-platform-agnostic-render" type="462c0819:PsiDirectoryNode" />
+              <item name="12-change-detection-strategy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="auth-form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular-study-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-study-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="12-change-detection-strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular-study-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-study-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="12-change-detection-strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="on-push" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -278,6 +219,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/default" />
+      <recent name="$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/example-on-push" />
+      <recent name="$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/example-default" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -391,12 +342,12 @@
       <workItem from="1558739174488" duration="1507000" />
       <workItem from="1558820503140" duration="630000" />
       <workItem from="1558880671516" duration="1186000" />
-      <workItem from="1559002691591" duration="5525000" />
+      <workItem from="1559002691591" duration="17660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24904000" />
+    <option name="totallyTimeSpent" value="37039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="2560" height="1440" extended-state="0" />
@@ -411,12 +362,13 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24071322" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23105498" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16905901" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -428,7 +380,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958803" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -444,311 +395,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-form.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="75" column="17" lean-forward="true" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#194#0" expanded="true" />
-            <marker date="1558284879633" expanded="true" signature="486:2009" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="552:1996" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="822:870" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="871:977" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1027:1075" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1076:1182" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1232:1280" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1281:1387" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1490:1605" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1627:1743" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-error/auth-error.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <marker date="1558284794587" expanded="true" signature="111:176" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-content-child/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-remember/auth-remember.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1558280280958" expanded="true" signature="140:267" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-message/auth-message.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <marker date="1558280980659" expanded="true" signature="113:182" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-form.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-content-child/src/app/auth-form/auth-form.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-content-child/src/app/auth-form/auth-remember/auth-remember.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding>
-            <marker date="1558202546073" expanded="true" signature="140:267" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-content-child/src/app/auth-form/auth-form.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-form.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="36" column="77" lean-forward="false" selection-start-line="36" selection-start-column="77" selection-end-line="36" selection-end-column="77" />
-          <folding>
-            <element signature="e#0#194#0" expanded="true" />
-            <marker date="1558284879633" expanded="true" signature="486:2009" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="552:1996" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="822:870" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="871:977" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1027:1075" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1076:1182" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1232:1280" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1281:1387" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1490:1605" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1627:1743" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-content-child/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-error/auth-error.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <marker date="1558284794587" expanded="true" signature="111:176" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-remember/auth-remember.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1558280280958" expanded="true" signature="140:267" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-message/auth-message.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <marker date="1558280980659" expanded="true" signature="113:182" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-form.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-content-child/src/app/auth-form/auth-form.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-content-child/src/app/auth-form/auth-remember/auth-remember.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding>
-            <marker date="1558202546073" expanded="true" signature="140:267" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-content-child/src/app/auth-form/auth-form.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-form.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#194#0" expanded="true" />
-            <marker date="1558284879633" expanded="true" signature="486:2009" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="552:1996" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="822:870" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="871:977" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1027:1075" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1076:1182" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1232:1280" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1281:1387" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1490:1605" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1627:1743" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-content-projection/src/app/app.component.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-binding-component/src/app/auth-form/auth-form.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-binding-component/src/app/auth-form/auth-form.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-content-child/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-content-projection/src/app/auth-form/auth-form.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-content-projection/src/app/auth-form/auth-form.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-content-projection/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-content-projection/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-content-projection/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="190">
-            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-binding-component/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-binding-component/src/app/auth-form/auth-form.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-binding-component/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-binding-component/src/app/auth-form/auth-remember/auth-remember.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -781,17 +427,6 @@
         <state relative-caret-position="437">
           <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-content-child/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -833,27 +468,7 @@
         <state relative-caret-position="437">
           <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-form.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1482">
-          <caret line="78" column="3" lean-forward="false" selection-start-line="78" selection-start-column="3" selection-end-line="78" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#194#0" expanded="true" />
-            <marker date="1558284879633" expanded="true" signature="486:2009" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="552:1996" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="822:870" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="871:977" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1027:1075" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1076:1182" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1232:1280" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1281:1387" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1490:1605" ph="..." />
-            <marker date="1558284879633" expanded="true" signature="1627:1743" ph="..." />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -871,7 +486,7 @@
         <state relative-caret-position="646">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
-            <element signature="e#0#104#0" expanded="true" />
+            <element signature="e#0#104#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -881,7 +496,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -894,19 +509,131 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/08-component-factory-resolver/src/app/app.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-component-factory-resolver/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-component-factory-resolver/src/app/auth-form/auth-form.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-content-child/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="171">
+            <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-view-child/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-view-child/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="115">
+            <caret line="5" column="50" lean-forward="true" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-form.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="58" column="2" lean-forward="true" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+          <folding>
+            <marker date="1558284879633" expanded="true" signature="486:2009" ph="..." />
+            <marker date="1558284879633" expanded="true" signature="552:1996" ph="..." />
+            <marker date="1558284879633" expanded="true" signature="822:870" ph="..." />
+            <marker date="1558284879633" expanded="true" signature="871:977" ph="..." />
+            <marker date="1558284879633" expanded="true" signature="1027:1075" ph="..." />
+            <marker date="1558284879633" expanded="true" signature="1076:1182" ph="..." />
+            <marker date="1558284879633" expanded="true" signature="1232:1280" ph="..." />
+            <marker date="1558284879633" expanded="true" signature="1281:1387" ph="..." />
+            <marker date="1558284879633" expanded="true" signature="1490:1605" ph="..." />
+            <marker date="1558284879633" expanded="true" signature="1627:1743" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-component-factory-resolver/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-component-factory-resolver/src/app/auth-form/auth-form.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#189#0" expanded="false" />
+            <marker date="1559431161227" expanded="true" signature="417:467" ph="{...}" />
+            <marker date="1559431161227" expanded="true" signature="500:1304" ph="..." />
+            <marker date="1559431161227" expanded="true" signature="566:1291" ph="..." />
+            <marker date="1559431161227" expanded="true" signature="778:900" ph="..." />
+            <marker date="1559431161227" expanded="true" signature="922:1038" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-platform-agnostic-render/src/app/auth-form/auth-form.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#189#0" expanded="false" />
+            <marker date="1559471156540" expanded="true" signature="417:467" ph="{...}" />
+            <marker date="1559471156540" expanded="true" signature="500:1267" ph="..." />
+            <marker date="1559471156540" expanded="true" signature="566:1254" ph="..." />
+            <marker date="1559471156540" expanded="true" signature="741:863" ph="..." />
+            <marker date="1559471156540" expanded="true" signature="885:1001" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/06-viewChild-and-templateRef/src/app/auth-form/auth-form.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="661">
-          <caret line="90" column="5" lean-forward="true" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+        <state relative-caret-position="538">
+          <caret line="73" column="33" lean-forward="false" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
           <folding>
-            <element signature="e#0#178#0" expanded="true" />
-            <marker date="1559005998888" expanded="true" signature="406:455" ph="{...}" />
-            <marker date="1559005998888" expanded="true" signature="488:1255" ph="..." />
-            <marker date="1559005998888" expanded="true" signature="554:1242" ph="..." />
-            <marker date="1559005998888" expanded="true" signature="729:851" ph="..." />
-            <marker date="1559005998888" expanded="true" signature="873:989" ph="..." />
-            <marker date="1559005998888" expanded="true" signature="1622:2422" ph="..." />
-            <marker date="1559005998888" expanded="true" signature="1726:2422" ph="..." />
+            <marker date="1559471305004" expanded="true" signature="406:455" ph="{...}" />
+            <marker date="1559471305004" expanded="true" signature="488:1255" ph="..." />
+            <marker date="1559471305004" expanded="true" signature="554:1242" ph="..." />
+            <marker date="1559471305004" expanded="true" signature="729:851" ph="..." />
+            <marker date="1559471305004" expanded="true" signature="873:989" ph="..." />
           </folding>
         </state>
       </provider>
@@ -914,22 +641,239 @@
     <entry file="file://$PROJECT_DIR$/07-platform-agnostic-render/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-platform-agnostic-render/src/app/auth-form/auth-form.component.ts">
+    <entry file="file://$PROJECT_DIR$/07-platform-agnostic-render/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="83" column="35" lean-forward="true" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-dynamic-components-reordering/src/app/auth-form/auth-form.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="e#0#189#0" expanded="true" />
-            <marker date="1559392414201" expanded="true" signature="417:467" ph="{...}" />
-            <marker date="1559392414201" expanded="true" signature="500:1267" ph="..." />
-            <marker date="1559392414201" expanded="true" signature="566:1254" ph="..." />
-            <marker date="1559392414201" expanded="true" signature="741:863" ph="..." />
-            <marker date="1559392414201" expanded="true" signature="885:1001" ph="..." />
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-dynamic-components-reordering/src/app/auth-form/auth-form.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <marker date="1559472245973" expanded="true" signature="126:609" ph="..." />
+            <marker date="1559472245973" expanded="true" signature="192:596" ph="..." />
+            <marker date="1559472245973" expanded="true" signature="266:388" ph="..." />
+            <marker date="1559472245973" expanded="true" signature="410:526" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-dynamic-components-reordering/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-dynamic-components-reordering/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="55" lean-forward="false" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+          <folding>
+            <marker date="1559472861996" expanded="true" signature="306:594" ph="..." />
+            <marker date="1559472861996" expanded="true" signature="519:569" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-component-factory-resolver/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="803">
+          <caret line="49" column="24" lean-forward="false" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+          <folding>
+            <element signature="e#1#138#0" expanded="false" />
+            <marker date="1559470992684" expanded="true" signature="306:512" ph="..." />
+            <marker date="1559470992684" expanded="true" signature="437:487" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-project-seed/src/app/app.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-project-seed/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-project-seed/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1559475152767" expanded="true" signature="131:331" ph="..." />
+            <marker date="1559475152767" expanded="true" signature="193:320" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-dynamicTemplateRedering-with-viewContainerRef/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <marker date="1559474697664" expanded="true" signature="196:431" ph="..." />
+            <marker date="1559474697664" expanded="true" signature="213:407" ph="..." />
+            <marker date="1559474697664" expanded="true" signature="315:390" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-ngTemplateOutlet/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/auth-form/auth-form.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/example-default/example-default.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/example-on-push/example-on-push.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-ngTemplateOutlet/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <marker date="1559475816421" expanded="true" signature="136:590" ph="..." />
+            <marker date="1559475816421" expanded="true" signature="152:577" ph="..." />
+            <marker date="1559475816421" expanded="true" signature="222:317" ph="..." />
+            <marker date="1559475816421" expanded="true" signature="401:545" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-ngTemplateOutlet/src/app/auth-form/auth-form.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/models/user.interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/default/default.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/on-push/on-push.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="41" lean-forward="false" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-change-detection-strategy/src/app/default/default.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <marker date="1559480402621" expanded="true" signature="259:332" ph="{...}" />
+            <marker date="1559480402621" expanded="true" signature="389:655" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-change-detection-strategy/src/app/on-push/on-push.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <marker date="1559479960655" expanded="true" signature="199:256" ph="{...}" />
+            <marker date="1559479960655" expanded="true" signature="307:543" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-change-detection-strategy/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <marker date="1559480363522" expanded="true" signature="135:538" ph="..." />
+            <marker date="1559480363522" expanded="true" signature="151:525" ph="..." />
+            <marker date="1559480363522" expanded="true" signature="383:508" ph="..." />
           </folding>
         </state>
       </provider>

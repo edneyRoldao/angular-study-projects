@@ -7,7 +7,8 @@ import {
     ContentChild,
     AfterViewInit,
     ViewChild,
-    ElementRef } from '@angular/core';
+    ElementRef, Renderer2
+} from '@angular/core';
 
 import { AuthRememberComponent } from "./auth-remember/auth-remember.component";
 import {AuthMessageComponent} from "./auth-message/auth-message.component";
@@ -16,12 +17,13 @@ import {AuthMessageComponent} from "./auth-message/auth-message.component";
   selector: 'auth-form',
     styles: [`
         .email {
-            border-color: #9f72e6;   
+            border: solid 3px #9f72e6;
         }
     `],
   template: `
       <div>
           <form (ngSubmit)="onSubmit(form.value)" #form="ngForm">
+              <h4> {{ title }} </h4>
 
               <!-- Here will be injected forms title from an external component. -->
               <ng-content select="h4"></ng-content>
@@ -46,7 +48,8 @@ import {AuthMessageComponent} from "./auth-message/auth-message.component";
 })
 export class AuthFormComponent implements OnInit, AfterContentInit, AfterViewInit {
 
-    // viewChild with templateRef
+    title = 'Auth Form';
+
     @ViewChild('email')
     email: ElementRef;
 
@@ -61,7 +64,7 @@ export class AuthFormComponent implements OnInit, AfterContentInit, AfterViewIni
     @Output()
     submitted: EventEmitter<User>;
 
-    constructor() {
+    constructor(private render: Renderer2) {
         this.showMessage = false;
         this.submitted = new EventEmitter<User>();
     }
@@ -70,11 +73,15 @@ export class AuthFormComponent implements OnInit, AfterContentInit, AfterViewIni
     }
 
     ngAfterContentInit() {
+        this.render.addClass(this.email.nativeElement, 'email');
 
-        // handling our component
-        this.email.nativeElement.setAttribute('placeholder', 'give me your email');
-        this.email.nativeElement.classList.add('email');
-        this.email.nativeElement.focus();
+        this.render.listen(this.email.nativeElement, 'focus', ((event) => {
+            console.log('I am listen to an event via render2', event);
+        }));
+
+        this.render.selectRootElement(this.email.nativeElement).focus();
+
+        this.render.setAttribute(this.email.nativeElement, 'placeholder', 'enter your email dfggf');
 
         if (this.message) {
             this.message.days = 30;

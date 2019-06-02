@@ -61,6 +61,7 @@ export class AuthFormComponent implements OnInit, AfterContentInit, AfterViewIni
     @Output()
     submitted: EventEmitter<User>;
 
+    // using render2 to manage DOM
     constructor(private render: Renderer2) {
         this.showMessage = false;
         this.submitted = new EventEmitter<User>();
@@ -69,6 +70,7 @@ export class AuthFormComponent implements OnInit, AfterContentInit, AfterViewIni
     ngOnInit() {
     }
 
+    // new need to use this lifecycle
     ngAfterContentInit() {
         this.render.addClass(this.email.nativeElement, 'email');
 
