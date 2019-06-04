@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0d857021-e119-46a5-9116-19304e614670" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/01-project-seed/src/app/app.component.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/01-project-seed/src/app/app.component.ts" afterPath="$PROJECT_DIR$/01-project-seed/src/app/app.component.ts" />
-      <change beforePath="$PROJECT_DIR$/05-view-child/README.md" afterPath="$PROJECT_DIR$/05-view-child/README.md" />
-      <change beforePath="$PROJECT_DIR$/06-viewChild-and-templateRef/src/app/auth-form/auth-form.component.ts" afterPath="$PROJECT_DIR$/06-viewChild-and-templateRef/src/app/auth-form/auth-form.component.ts" />
-      <change beforePath="$PROJECT_DIR$/07-platform-agnostic-render/src/app/auth-form/auth-form.component.ts" afterPath="$PROJECT_DIR$/07-platform-agnostic-render/src/app/auth-form/auth-form.component.ts" />
-      <change beforePath="$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/on-push/on-push.component.ts" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,41 +16,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12-change-detection-strategy/src/app/app.component.ts">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13-creating-attribute-directive/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="247">
+              <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
               <folding>
-                <marker date="1559480363522" expanded="true" signature="135:538" ph="..." />
-                <marker date="1559480363522" expanded="true" signature="151:525" ph="..." />
-                <marker date="1559480363522" expanded="true" signature="383:508" ph="..." />
+                <marker date="1559507682989" expanded="true" signature="131:383" ph="..." />
+                <marker date="1559507682989" expanded="true" signature="152:367" ph="..." />
+                <marker date="1559507682989" expanded="true" signature="215:350" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="on-push.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12-change-detection-strategy/src/app/on-push/on-push.component.ts">
+      <file leaf-file-name="credit-card.directive.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/13-creating-attribute-directive/src/app/credit-card/credit-card.directive.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-              <folding>
-                <marker date="1559479960655" expanded="true" signature="199:256" ph="{...}" />
-                <marker date="1559479960655" expanded="true" signature="307:543" ph="..." />
-              </folding>
+            <state relative-caret-position="608">
+              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12-change-detection-strategy/src/app/default/default.component.ts">
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13-creating-attribute-directive/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            <state relative-caret-position="494">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
-                <marker date="1559480402621" expanded="true" signature="259:332" ph="{...}" />
-                <marker date="1559480402621" expanded="true" signature="389:655" ph="..." />
+                <element signature="e#0#41#0" expanded="true" />
+                <element signature="e#242#321#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,6 +106,9 @@
         <option value="$PROJECT_DIR$/12-onPush-changeDetection-immutability/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/12-change-detection-strategy/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/12-change-detection-strategy/src/app/default/default.component.ts" />
+        <option value="$PROJECT_DIR$/13-creating-attribute-directive/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/13-creating-attribute-directive/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/13-creating-attribute-directive/src/app/credit-card/credit-card.directive.ts" />
       </list>
     </option>
   </component>
@@ -137,6 +131,7 @@
     <handled-path value="$PROJECT_DIR$/05-view-child/node_modules" />
     <handled-path value="$PROJECT_DIR$/06-viewChild-and-templateRef/node_modules" />
     <handled-path value="$PROJECT_DIR$/11-ngTemplateOutlet/node_modules" />
+    <handled-path value="$PROJECT_DIR$/13-creating-attribute-directive/node_modules" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="1280" />
@@ -173,36 +168,20 @@
             <path>
               <item name="angular-study-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="angular-study-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="12-change-detection-strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="13-creating-attribute-directive" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="angular-study-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="angular-study-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="12-change-detection-strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="13-creating-attribute-directive" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="angular-study-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="angular-study-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="12-change-detection-strategy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="angular-study-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="angular-study-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="12-change-detection-strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="13-creating-attribute-directive" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="angular-study-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="angular-study-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="12-change-detection-strategy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="on-push" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -342,12 +321,12 @@
       <workItem from="1558739174488" duration="1507000" />
       <workItem from="1558820503140" duration="630000" />
       <workItem from="1558880671516" duration="1186000" />
-      <workItem from="1559002691591" duration="17660000" />
+      <workItem from="1559002691591" duration="21436000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37039000" />
+    <option name="totallyTimeSpent" value="40815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="2560" height="1440" extended-state="0" />
@@ -362,7 +341,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23105498" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.118127786" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -395,41 +374,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03-binding-component/src/app/auth-form/auth-remember/auth-remember.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-binding-component/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="2" column="90" lean-forward="false" selection-start-line="2" selection-start-column="90" selection-end-line="2" selection-end-column="90" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-content-child/src/app/auth-form/auth-remember/auth-remember.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding>
-            <marker date="1558202546073" expanded="true" signature="140:267" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-content-child/src/app/auth-form/auth-form.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-form.component.css" />
     <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/user.interface.ts" />
     <entry file="file://$PROJECT_DIR$/05-view-child/src/app/auth-form/auth-remember/auth-remember.component.ts">
@@ -847,7 +791,7 @@
     <entry file="file://$PROJECT_DIR$/12-change-detection-strategy/src/app/default/default.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding>
             <marker date="1559480402621" expanded="true" signature="259:332" ph="{...}" />
             <marker date="1559480402621" expanded="true" signature="389:655" ph="..." />
@@ -855,10 +799,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/12-change-detection-strategy/src/app/angular-material-custom.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-change-detection-strategy/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <folding>
+            <marker date="1559480363522" expanded="true" signature="135:538" ph="..." />
+            <marker date="1559480363522" expanded="true" signature="151:525" ph="..." />
+            <marker date="1559480363522" expanded="true" signature="383:508" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/12-change-detection-strategy/src/app/on-push/on-push.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding>
             <marker date="1559479960655" expanded="true" signature="199:256" ph="{...}" />
             <marker date="1559479960655" expanded="true" signature="307:543" ph="..." />
@@ -866,15 +830,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12-change-detection-strategy/src/app/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/13-creating-attribute-directive/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="494">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
-            <marker date="1559480363522" expanded="true" signature="135:538" ph="..." />
-            <marker date="1559480363522" expanded="true" signature="151:525" ph="..." />
-            <marker date="1559480363522" expanded="true" signature="383:508" ph="..." />
+            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#242#321#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-creating-attribute-directive/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <marker date="1559507682989" expanded="true" signature="131:383" ph="..." />
+            <marker date="1559507682989" expanded="true" signature="152:367" ph="..." />
+            <marker date="1559507682989" expanded="true" signature="215:350" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-creating-attribute-directive/src/app/credit-card/credit-card.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
